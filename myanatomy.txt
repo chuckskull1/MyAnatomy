@@ -1,2 +1,2 @@
-Hands on text file.
+Demo text file for myanatomy.
 
