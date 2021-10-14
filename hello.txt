@@ -1,2 +1,3 @@
 Hello for demo purpose.
 Addition of a new line.
+Commit for showing -am in git commit command.
